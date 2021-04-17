@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Hey, Its Twitter! (Exercise) </string>
+    <string name="EmailLogin"> Masukkan E-mail </string>
+    <string name="PasswordLogin"> Masukkan Password </string>
+    <string name="SignInButton"> Log in </string>
+    <string name="SignUpButton"> Sign Up </string>
+    <string name="Registration"> Sign Up to Twitter </string>
+    <string name="Register"> Sign Up </string>
+    <string name="InputName"> Name </string>
+    <string name="InputAddress"> Address </string>
+    <string name="InputEmail"> E-mail </string>
+    <string name="InputPassword"> Password </string>
+    <string name="InputRePassword"> Re-Password </string>
+    <string name="lihatdata"> Personal Data </string>
+    <string name="editdata"> Edit Data </string>
+    <string name="datakontak"> Data Contact </string>
+    <string name="namaitem"> Item Name </string>
+    <string name="detailkontak"> Contact Detail </string>
+    <string name="nama"> Name </string>
+    <string name="notel"> Phone Number </string>
+    <string name="bounty"> Bounty </string>
+
+</resources>
